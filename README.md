@@ -1,4 +1,4 @@
-# ![Логотип HackingServices]("C:\Users\33sov\OneDrive\Desktop\Программирование ВВМ\GIT\Website\image333.png") HackingServices
+# ![Логотип HackingServices]("img/image333.png") HackingServices
 
 **Искусственный интеллект, решающий ваши бизнес-задачи.** Воспользуйтесь современными возможностями искусственного интеллекта, оставив конкурентов позади!
 
